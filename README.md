@@ -72,15 +72,4 @@ PEDIATRIC HOSPITAL WEBSITE - PHP + MySQL + Bootstrap
    - Appointment is stored in DB.
    - Doctor’s dashboard shows appointments in real time.
 
-───────────────────────────────────────────────
-▶ OPTIONAL IMPROVEMENTS
-───────────────────────────────────────────────
-- Use password_hash() instead of MD5 for security
-- Add input validation and error messages
-- Add logout functionality
-- Add email notifications (optional)
-- Protect pages using session checks
-
-───────────────────────────────────────────────
-Created for educational purposes
-───────────────────────────────────────────────
+─
